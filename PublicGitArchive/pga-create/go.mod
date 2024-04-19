@@ -26,8 +26,6 @@ require (
 	github.com/flynn/go-shlex v0.0.0-20150515145356-3f9db97f8568 // indirect
 	github.com/gliderlabs/ssh v0.2.2 // indirect
 	github.com/go-sql-driver/mysql v1.4.1 // indirect
-	github.com/go-stack/stack v1.8.0 // indirect
-	github.com/gogo/protobuf v1.1.1 // indirect
 	github.com/golang/groupcache v0.0.0-20190702054246-869f871628b6 // indirect
 	github.com/google/btree v1.0.0 // indirect
 	github.com/google/go-cmp v0.3.1 // indirect
@@ -50,8 +48,6 @@ require (
 	github.com/mattn/go-sqlite3 v1.11.0 // indirect
 	github.com/mcuadros/go-defaults v1.1.0 // indirect
 	github.com/mitchellh/go-homedir v0.0.0-20180801233206-58046073cbff // indirect
-	github.com/modern-go/concurrent v0.0.0-20180306012644-bacd9c7ef1dd // indirect
-	github.com/modern-go/reflect2 v1.0.1 // indirect
 	github.com/montanaflynn/stats v0.0.0-20171201202039-1bf9dbcd8cbe // indirect
 	github.com/neurosnap/sentences v1.0.6 // indirect
 	github.com/oklog/ulid v1.0.0 // indirect
@@ -74,7 +70,7 @@ require (
 	github.com/xanzy/ssh-agent v0.2.0 // indirect
 	github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2 // indirect
 	go.etcd.io/bbolt v1.3.3 // indirect
-	golang.org/x/net v0.0.0-20190613194153-d28f0bde5980
+	golang.org/x/net v0.23.0
 	golang.org/x/time v0.0.0-20190921001708-c4c64cad1fd0 // indirect
 	gonum.org/v1/netlib v0.0.0-20190331212654-76723241ea4e // indirect
 	gopkg.in/check.v1 v1.0.0-20190902080502-41f04d3bba15 // indirect
@@ -96,6 +92,7 @@ require (
 	gopkg.in/toqueteos/substring.v1 v1.0.2 // indirect
 	gopkg.in/vmihailenco/msgpack.v2 v2.9.1 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
+	launchpad.net/gocheck v0.0.0-20140225173054-000000000087 // indirect
 )
 
 replace gopkg.in/russross/blackfriday.v2 => github.com/russross/blackfriday/v2 v2.0.1
